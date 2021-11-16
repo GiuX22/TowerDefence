@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/igpe-towerdefense/!svn/ver/6/src/com/google/zxing/qrcode/encoder
+END
+QRCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/igpe-towerdefense/!svn/ver/6/src/com/google/zxing/qrcode/encoder/QRCode.java
+END
+MaskUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/igpe-towerdefense/!svn/ver/6/src/com/google/zxing/qrcode/encoder/MaskUtil.java
+END
+Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/igpe-towerdefense/!svn/ver/6/src/com/google/zxing/qrcode/encoder/Encoder.java
+END
+ByteMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/igpe-towerdefense/!svn/ver/6/src/com/google/zxing/qrcode/encoder/ByteMatrix.java
+END
+BlockPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/igpe-towerdefense/!svn/ver/6/src/com/google/zxing/qrcode/encoder/BlockPair.java
+END
+MatrixUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/igpe-towerdefense/!svn/ver/6/src/com/google/zxing/qrcode/encoder/MatrixUtil.java
+END

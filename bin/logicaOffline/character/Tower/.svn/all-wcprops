@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/igpe-towerdefense/!svn/ver/158/src/logicaOffline/character/Tower
+END
+TowerFire.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/igpe-towerdefense/!svn/ver/152/src/logicaOffline/character/Tower/TowerFire.java
+END
+UniversalTower.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/igpe-towerdefense/!svn/ver/158/src/logicaOffline/character/Tower/UniversalTower.java
+END
+BlockTower.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/igpe-towerdefense/!svn/ver/152/src/logicaOffline/character/Tower/BlockTower.java
+END
+SuicideTower.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/igpe-towerdefense/!svn/ver/152/src/logicaOffline/character/Tower/SuicideTower.java
+END
+BurnTower.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/igpe-towerdefense/!svn/ver/152/src/logicaOffline/character/Tower/BurnTower.java
+END
+Tower.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/igpe-towerdefense/!svn/ver/115/src/logicaOffline/character/Tower/Tower.java
+END
+SlowTower.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/igpe-towerdefense/!svn/ver/147/src/logicaOffline/character/Tower/SlowTower.java
+END
+AbstractTower.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/igpe-towerdefense/!svn/ver/115/src/logicaOffline/character/Tower/AbstractTower.java
+END
+TowerInvisible.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/igpe-towerdefense/!svn/ver/152/src/logicaOffline/character/Tower/TowerInvisible.java
+END
+FrostyTower.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/igpe-towerdefense/!svn/ver/158/src/logicaOffline/character/Tower/FrostyTower.java
+END
+NuclearTower.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/igpe-towerdefense/!svn/ver/152/src/logicaOffline/character/Tower/NuclearTower.java
+END
+SpeedTower.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/igpe-towerdefense/!svn/ver/152/src/logicaOffline/character/Tower/SpeedTower.java
+END
+PerfidiousTower.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/igpe-towerdefense/!svn/ver/152/src/logicaOffline/character/Tower/PerfidiousTower.java
+END

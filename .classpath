@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Lib/bridj-0.7-20131007.003529-54.jar"/>
+	<classpathentry kind="lib" path="Lib/javacpp.jar"/>
+	<classpathentry kind="lib" path="Lib/javacv-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="Lib/javacv-windows-x86.jar"/>
+	<classpathentry kind="lib" path="Lib/javacv.jar"/>
+	<classpathentry kind="lib" path="Lib/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="Lib/sun.misc.BASE64Decoder.jar"/>
+	<classpathentry kind="lib" path="Lib/webcam-capture-0.3.10-RC6.jar"/>
+	<classpathentry kind="lib" path="Lib/zxing-j2se-1.7.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

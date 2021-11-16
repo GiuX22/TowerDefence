@@ -1,0 +1,17 @@
+Emanuele:55000.0
+Giovanni:55000.0
+Mio:37750.0
+Ema:35700.0
+emanuele2:30450.0
+emanuele:23150.0
+nuovo:17200.0
+priapo:3100.0
+prova2:3100.0
+<<<<<<< .mine
+asas:2750.0
+=======
+Fabiano:2750.0
+>>>>>>> .r123
+NUOVO:2000.0
+Prova:2000.0
+Team:1230.0

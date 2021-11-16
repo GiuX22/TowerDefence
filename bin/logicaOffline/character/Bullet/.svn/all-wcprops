@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/igpe-towerdefense/!svn/ver/132/src/logicaOffline/character/Bullet
+END
+BulletSuicide.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/igpe-towerdefense/!svn/ver/132/src/logicaOffline/character/Bullet/BulletSuicide.java
+END
+BulletInvisible.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/igpe-towerdefense/!svn/ver/132/src/logicaOffline/character/Bullet/BulletInvisible.java
+END
+BulletBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/igpe-towerdefense/!svn/ver/132/src/logicaOffline/character/Bullet/BulletBlock.java
+END
+BulletPerfidious.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/igpe-towerdefense/!svn/ver/132/src/logicaOffline/character/Bullet/BulletPerfidious.java
+END
+BulletNormal.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/igpe-towerdefense/!svn/ver/132/src/logicaOffline/character/Bullet/BulletNormal.java
+END
+BulletUniversal.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/igpe-towerdefense/!svn/ver/132/src/logicaOffline/character/Bullet/BulletUniversal.java
+END
+BulletFrosty.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/igpe-towerdefense/!svn/ver/132/src/logicaOffline/character/Bullet/BulletFrosty.java
+END
+BulletSpeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/igpe-towerdefense/!svn/ver/132/src/logicaOffline/character/Bullet/BulletSpeed.java
+END
+AbstractBullet.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/igpe-towerdefense/!svn/ver/132/src/logicaOffline/character/Bullet/AbstractBullet.java
+END
+BulletNuclear.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/igpe-towerdefense/!svn/ver/132/src/logicaOffline/character/Bullet/BulletNuclear.java
+END
+BulletSlow.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/igpe-towerdefense/!svn/ver/132/src/logicaOffline/character/Bullet/BulletSlow.java
+END
+BulletBurn.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/igpe-towerdefense/!svn/ver/132/src/logicaOffline/character/Bullet/BulletBurn.java
+END

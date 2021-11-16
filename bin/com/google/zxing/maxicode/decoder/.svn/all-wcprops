@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/igpe-towerdefense/!svn/ver/6/src/com/google/zxing/maxicode/decoder
+END
+BitMatrixParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/igpe-towerdefense/!svn/ver/6/src/com/google/zxing/maxicode/decoder/BitMatrixParser.java
+END
+DecodedBitStreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/igpe-towerdefense/!svn/ver/6/src/com/google/zxing/maxicode/decoder/DecodedBitStreamParser.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/igpe-towerdefense/!svn/ver/6/src/com/google/zxing/maxicode/decoder/Decoder.java
+END

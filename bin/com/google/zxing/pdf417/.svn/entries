@@ -1,0 +1,71 @@
+10
+
+dir
+171
+https://subversion.assembla.com/svn/igpe-towerdefense/src/com/google/zxing/pdf417
+https://subversion.assembla.com/svn/igpe-towerdefense
+
+
+
+2014-03-28T12:47:53.365591Z
+3
+Formix
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a18caeab-31dc-4fff-b3e4-50dbca691981
+
+PDF417Reader.java
+file
+
+
+
+
+2015-02-05T10:16:35.818000Z
+63c6555d9ce1c65dac81e7deedf28ee6
+2014-03-28T12:47:53.365591Z
+3
+Formix
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6474
+
+decoder
+dir
+
+detector
+dir
+
+encoder
+dir
+

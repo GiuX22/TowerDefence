@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/igpe-towerdefense/!svn/ver/6/src/com/google/zxing/datamatrix/decoder
+END
+BitMatrixParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/igpe-towerdefense/!svn/ver/6/src/com/google/zxing/datamatrix/decoder/BitMatrixParser.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/igpe-towerdefense/!svn/ver/6/src/com/google/zxing/datamatrix/decoder/Version.java
+END
+DecodedBitStreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/igpe-towerdefense/!svn/ver/6/src/com/google/zxing/datamatrix/decoder/DecodedBitStreamParser.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/igpe-towerdefense/!svn/ver/6/src/com/google/zxing/datamatrix/decoder/Decoder.java
+END
+DataBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/igpe-towerdefense/!svn/ver/6/src/com/google/zxing/datamatrix/decoder/DataBlock.java
+END

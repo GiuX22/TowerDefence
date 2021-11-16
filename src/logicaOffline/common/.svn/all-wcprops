@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/igpe-towerdefense/!svn/ver/6/src/logicaOffline/common
+END
+AbstractStaticObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/igpe-towerdefense/!svn/ver/6/src/logicaOffline/common/AbstractStaticObject.java
+END
+StaticObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/igpe-towerdefense/!svn/ver/6/src/logicaOffline/common/StaticObject.java
+END
+HasScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/igpe-towerdefense/!svn/ver/6/src/logicaOffline/common/HasScore.java
+END
+HasLife.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/igpe-towerdefense/!svn/ver/6/src/logicaOffline/common/HasLife.java
+END

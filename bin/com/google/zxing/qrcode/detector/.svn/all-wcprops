@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/igpe-towerdefense/!svn/ver/6/src/com/google/zxing/qrcode/detector
+END
+FinderPatternFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/igpe-towerdefense/!svn/ver/6/src/com/google/zxing/qrcode/detector/FinderPatternFinder.java
+END
+AlignmentPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/igpe-towerdefense/!svn/ver/6/src/com/google/zxing/qrcode/detector/AlignmentPattern.java
+END
+FinderPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/igpe-towerdefense/!svn/ver/6/src/com/google/zxing/qrcode/detector/FinderPattern.java
+END
+FinderPatternInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/igpe-towerdefense/!svn/ver/6/src/com/google/zxing/qrcode/detector/FinderPatternInfo.java
+END
+Detector.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/igpe-towerdefense/!svn/ver/6/src/com/google/zxing/qrcode/detector/Detector.java
+END
+AlignmentPatternFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/igpe-towerdefense/!svn/ver/6/src/com/google/zxing/qrcode/detector/AlignmentPatternFinder.java
+END
